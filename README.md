@@ -55,7 +55,7 @@ def get_network_data():
 There are few more things that the author wishes to do:
 
 1. In-depth understand on how [multiprocessing.Process](https://docs.python.org/2/library/multiprocessing.html#multiprocessing.Process) works
-2. Deploy this data to either [d3.js](https://d3js.org/) or [PyBokeh]https://bokeh.pydata.org/en/latest/()
+2. Deploy this data to either [d3.js](https://d3js.org/) or [PyBokeh](https://bokeh.pydata.org/en/latest/)
 3. Make it into package like setup.py 
 4. Store the key into a config.json file
 5. Can't think of it at the moment.
