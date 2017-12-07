@@ -1,0 +1,16 @@
+{
+    "Network": {
+        "ChungHwa_Telecom_DNS": "ALIVE!", 
+        "Google_DNS": "ALIVE!", 
+        "IBM_DNS": "ALIVE!", 
+        "My_Server": "ALIVE!", 
+        "TimedotCom_DNS": "ALIVE!"
+    }, 
+    "Speed_Test": {
+        "Download": "24.37 Mbps", 
+        "Ping": "11.51 ms", 
+        "URL": "speedtest.time.com.my", 
+        "Upload": "12.36 Mbps"
+    }, 
+    "Time": "Thu Dec  7 15:24:33 2017"
+}

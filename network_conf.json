@@ -1,0 +1,12 @@
+{
+    "PING": {
+        "My_Server": "54.251.144.52",
+        "IBM_DNS": "9.9.9.9",
+        "Google_DNS": "8.8.8.8",
+        "ChungHwa_Telecom_DNS": "168.95.1.1",
+        "TimedotCom_DNS": "203.121.16.85"
+    },
+    "SPEEDTEST": {
+        "Address": "speedtest.time.com.my"
+    }
+}
